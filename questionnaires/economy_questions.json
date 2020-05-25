@@ -30,8 +30,18 @@
             "label": "Should we address the global human overpopulation using human population planning, thus reducing strain on the environment and increasing our own quality of life and wealth ? If so, how should we do it ?",
             "required": true,
             "options": [
-                "yes, by family planning education and through various taxes and subsidies that promote having 2 children or less",
-                "yes, by family planning education and through various taxes and subsidies that promote having 1 child or less",
+                "yes, by family planning education and through various fines, taxes and subsidies that promote having 2 children or less (hereby ensuring that people take precautions such as birth control methods, ... to keep in-line with this regulation)",
+                "yes, by family planning education and through various fines, taxes and subsidies that promote having 1 child or less (hereby ensuring that people take precautions such as birth control methods, ... to keep in-line with this regulation)",
+                "no",
+            ]
+        },
+        
+        {
+            "type": "checkbox",
+            "label": "Should we make the use of PGD and IVF mandatory to ensure that children with genetic defects are not created, hereby heavily increasing population health, decreasing human suffering and benefitting environment (overpopulation) and economy (due to less health care costs and unemployment benefits) ?",
+            "required": true,
+            "options": [
+                "yes",
                 "no",
             ]
         },
