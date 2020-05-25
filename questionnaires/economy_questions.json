@@ -45,5 +45,15 @@
                 "no",
             ]
         },
+        
+          {
+            "type": "checkbox",
+            "label": "Should neighbourhoods, and cities that are poor in quality and have little food production, power production and social services (hospitals, fire department, police station, ...) and are remote and located in areas with high biodiversity be abandoned, thus benefitting environment (sustainable development goals) and reducing costs to the environment (remote cities with little own food production and social services are costly in operation and maintenance)?",
+            "required": true,
+            "options": [
+                "yes",
+                "no",
+            ]
+        },
     ]
 }
